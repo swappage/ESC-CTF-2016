@@ -4,6 +4,13 @@ This repository contains all the files required to play the challenges used duri
 
 By cloning the repository you will get all the binaries and scripts that are needed to play the challenges
 
+All challenges are running inside docker containers, this means you need docker to run them.
+
+## what is missing
+I didn't manage to upload the CTF platform, not that you need it anyway
+
+Also some challenges are missing because they were not dockerized and were running on a separate VM.
+When ready for publishing, the VM will be made available on VulnHub (www.vulnhub.com)
 
 ## challenges
 
